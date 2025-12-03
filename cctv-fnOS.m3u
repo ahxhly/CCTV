@@ -1,0 +1,180 @@
+#EXTM3U
+# 央视系列（28个频道）
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://192.168.0.107:1111/608807420
+#EXTINF:-1 group-title="央视",CCTV2财经
+http://192.168.0.107:1111/631780532
+#EXTINF:-1 group-title="央视",CCTV3综艺
+http://192.168.0.107:1111/624878271
+#EXTINF:-1 group-title="央视",CCTV4中文国际
+http://192.168.0.107:1111/631780421
+#EXTINF:-1 group-title="央视",CCTV5体育
+http://192.168.0.107:1111/641886683
+#EXTINF:-1 group-title="央视",CCTV5+体育赛事
+http://192.168.0.107:1111/641886773
+#EXTINF:-1 group-title="央视",CCTV6电影
+http://192.168.0.107:1111/624878396
+#EXTINF:-1 group-title="央视",CCTV7国防军事
+http://192.168.0.107:1111/673168121
+#EXTINF:-1 group-title="央视",CCTV8电视剧
+http://192.168.0.107:1111/624878356
+#EXTINF:-1 group-title="央视",CCTV9纪录
+http://192.168.0.107:1111/673168140
+#EXTINF:-1 group-title="央视",CCTV10科教
+http://192.168.0.107:1111/624878405
+#EXTINF:-1 group-title="央视",CCTV11戏曲
+http://192.168.0.107:1111/667987558
+#EXTINF:-1 group-title="央视",CCTV12社会与法
+http://192.168.0.107:1111/673168185
+#EXTINF:-1 group-title="央视",CCTV13新闻
+http://192.168.0.107:1111/608807423
+#EXTINF:-1 group-title="央视",CCTV14少儿
+http://192.168.0.107:1111/624878440
+#EXTINF:-1 group-title="央视",CCTV15音乐
+http://192.168.0.107:1111/673168223
+#EXTINF:-1 group-title="央视",CCTV17农业农村
+http://192.168.0.107:1111/673168256
+#EXTINF:-1 group-title="央视",CCTV4欧洲
+http://192.168.0.107:1111/608807419
+#EXTINF:-1 group-title="央视",CCTV4美洲
+http://192.168.0.107:1111/608807416
+#EXTINF:-1 group-title="央视",CGTN外语纪录
+http://192.168.0.107:1111/609006487
+#EXTINF:-1 group-title="央视",CGTN阿拉伯语
+http://192.168.0.107:1111/609154345
+#EXTINF:-1 group-title="央视",CGTN西班牙语
+http://192.168.0.107:1111/609006450
+#EXTINF:-1 group-title="央视",CGTN法语
+http://192.168.0.107:1111/609006476
+#EXTINF:-1 group-title="央视",CGTN俄语
+http://192.168.0.107:1111/609006446
+#EXTINF:-1 group-title="央视",老故事
+http://192.168.0.107:1111/884121956
+#EXTINF:-1 group-title="央视",发现之旅
+http://192.168.0.107:1111/624878970
+#EXTINF:-1 group-title="央视",中学生
+http://192.168.0.107:1111/708869532
+#EXTINF:-1 group-title="央视",CGTN
+http://192.168.0.107:1111/609017205
+
+# 体育系列（6个频道）
+#EXTINF:-1 group-title="体育",赛事最经典
+http://192.168.0.107:1111/646596895
+#EXTINF:-1 group-title="体育",体坛名栏汇
+http://192.168.0.107:1111/629943305
+#EXTINF:-1 group-title="体育",四海钓鱼
+http://192.168.0.107:1111/637444975
+#EXTINF:-1 group-title="体育",陕西体育休闲频道
+http://192.168.0.107:1111/956909356
+#EXTINF:-1 group-title="体育",24小时城市联赛轮播台
+http://192.168.0.107:1111/915512915
+#EXTINF:-1 group-title="体育",武术世界
+http://192.168.0.107:1111/958475359
+
+# 卫视系列（17个频道）
+#EXTINF:-1 group-title="卫视",东方卫视
+http://192.168.0.107:1111/651632648
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://192.168.0.107:1111/623899368
+#EXTINF:-1 group-title="卫视",广东卫视
+http://192.168.0.107:1111/608831231
+#EXTINF:-1 group-title="卫视",江西卫视
+http://192.168.0.107:1111/783847495
+#EXTINF:-1 group-title="卫视",河南卫视
+http://192.168.0.107:1111/790187291
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://192.168.0.107:1111/738910838
+#EXTINF:-1 group-title="卫视",大湾区卫视
+http://192.168.0.107:1111/608917627
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://192.168.0.107:1111/947472496
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://192.168.0.107:1111/947472500
+#EXTINF:-1 group-title="卫视",青海卫视
+http://192.168.0.107:1111/947472506
+#EXTINF:-1 group-title="卫视",东南卫视
+http://192.168.0.107:1111/849116810
+#EXTINF:-1 group-title="卫视",海南卫视
+http://192.168.0.107:1111/947472502
+#EXTINF:-1 group-title="卫视",海峡卫视
+http://192.168.0.107:1111/849119120
+#EXTINF:-1 group-title="卫视",中国农林卫视
+http://192.168.0.107:1111/956904896
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://192.168.0.107:1111/956923145
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://192.168.0.107:1111/630291707
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://192.168.0.107:1111/738910535
+
+# 地方系列（24个频道）
+#EXTINF:-1 group-title="地方",上海新闻综合
+http://192.168.0.107:1111/651632657
+#EXTINF:-1 group-title="地方",上视东方影视
+http://192.168.0.107:1111/617290047
+#EXTINF:-1 group-title="地方",上海第一财经
+http://192.168.0.107:1111/608780988
+#EXTINF:-1 group-title="地方",南京新闻综合频道
+http://192.168.0.107:1111/838109047
+#EXTINF:-1 group-title="地方",南京教科频道
+http://192.168.0.107:1111/838153729
+#EXTINF:-1 group-title="地方",南京十八频道
+http://192.168.0.107:1111/838151753
+#EXTINF:-1 group-title="地方",体育休闲频道
+http://192.168.0.107:1111/626064707
+#EXTINF:-1 group-title="地方",江苏城市频道
+http://192.168.0.107:1111/626064714
+#EXTINF:-1 group-title="地方",江苏国际
+http://192.168.0.107:1111/626064674
+#EXTINF:-1 group-title="地方",江苏教育
+http://192.168.0.107:1111/628008321
+#EXTINF:-1 group-title="地方",江苏影视频道
+http://192.168.0.107:1111/626064697
+#EXTINF:-1 group-title="地方",江苏综艺频道
+http://192.168.0.107:1111/626065193
+#EXTINF:-1 group-title="地方",公共新闻频道
+http://192.168.0.107:1111/626064693
+#EXTINF:-1 group-title="地方",盐城新闻综合
+http://192.168.0.107:1111/639731825
+#EXTINF:-1 group-title="地方",淮安新闻综合
+http://192.168.0.107:1111/639731826
+#EXTINF:-1 group-title="地方",泰州新闻综合
+http://192.168.0.107:1111/639731818
+#EXTINF:-1 group-title="地方",连云港新闻综合
+http://192.168.0.107:1111/639731715
+#EXTINF:-1 group-title="地方",宿迁新闻综合
+http://192.168.0.107:1111/639731832
+#EXTINF:-1 group-title="地方",徐州新闻综合
+http://192.168.0.107:1111/639731747
+#EXTINF:-1 group-title="地方",优漫卡通频道
+http://192.168.0.107:1111/626064703
+#EXTINF:-1 group-title="地方",江阴新闻综合
+http://192.168.0.107:1111/955227979
+#EXTINF:-1 group-title="地方",南通新闻综合
+http://192.168.0.107:1111/955227985
+#EXTINF:-1 group-title="地方",宜兴新闻综合
+http://192.168.0.107:1111/955227996
+#EXTINF:-1 group-title="地方",溧水新闻综合
+http://192.168.0.107:1111/639737327
+#EXTINF:-1 group-title="地方",陕西银龄频道
+http://192.168.0.107:1111/956909362
+#EXTINF:-1 group-title="地方",陕西都市青春频道
+http://192.168.0.107:1111/956909358
+#EXTINF:-1 group-title="地方",陕西秦腔频道
+http://192.168.0.107:1111/956909303
+#EXTINF:-1 group-title="地方",陕西新闻资讯频道
+http://192.168.0.107:1111/956909289
+#EXTINF:-1 group-title="地方",财富天下
+http://192.168.0.107:1111/956923159
+
+# 影视系列（8个频道）
+#EXTINF:-1 group-title="影视",经典香港电影
+http://192.168.0.107:1111/625703337
+#EXTINF:-1 group-title="影视",抗战经典影片
+http://192.168.0.107:1111/617432318
+#EXTINF:-1 group-title="影视",新片放映厅
+http://192.168.0.107:1111/619495952
+#EXTINF:-1 group-title="影视",CHC影迷电影
+http://192.168.0.107:1111/952383261
+#EXTINF:-1 group-title="影视",CHC动作电影
+http://192.168.0.107:11
