@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1-综合
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV2-财经
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV3-综艺
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV4-中文国际
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV5-体育
+http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6-电影
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV7-军农
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视",CCTV8-电视剧
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV9-纪录
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV10-科教
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-10H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV11-戏曲
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV12-社会与法
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-12H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV13-新闻
+http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13-新闻（备用）
+http://171.83.100.198:85/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="央视",CCTV14-少儿
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV15-音乐
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV16-奥林匹克
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV17-农业农村
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8
+#EXTINF:-1 group-title="央视",CCTV4K-超高清
+https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
+#EXTINF:-1 group-title="央视",CCTV4K-超高清（备用）
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
+
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="地方卫视",浙江卫视（备用）
+http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+#EXTINF:-1 group-title="地方卫视",广西卫视
+http://124.108.6.20:85/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方卫视",广西卫视（备用）
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221225842/index.m3u8
+#EXTINF:-1 group-title="地方卫视",星空卫视
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方卫视",星空卫视（备用）
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 group-title="地方卫视",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="地方卫视",凤凰卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="地方卫视",莲花卫视
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1 group-title="地方卫视",东方卫视
+http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+http://171.118.202.210:9003/hls/33/index.m3u8
+#EXTINF:-1 group-title="地方卫视",湖南卫视（备用）
+http://120.197.2.134:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
+#EXTINF:-1 group-title="地方卫视",江苏卫视（备用）
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
+#EXTINF:-1 group-title="地方卫视",广东卫视
+http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+http://47.108.29.179:8888/edge-cache02.live3.omd.sc96655.com/live/ahwsH265_4000.m3u8
+#EXTINF:-1 group-title="地方卫视",安徽卫视（备用）
+http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228645/index.m3u8
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
+
+#EXTINF:-1 group-title="景区直播",黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",泰山迎客松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",千佛山
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",水长城镜头一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",北京-水长城03
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",安徽-黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",广东-梅州梅江
+http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="景区直播",滨海新区
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",井冈山
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",两江四岸
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",火星基地
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",白头叶猴保护区
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区直播",印象大红袍
+https://gctxyc.liveplay.myq
