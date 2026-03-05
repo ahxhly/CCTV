@@ -1,0 +1,90 @@
+[
+  {
+    "name": "关注“小位传媒‘微信公众号获取更多影视源",
+    "key": "急速视频源（传媒）",
+    "api": "https://jszyapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "小位传媒微信公众号",
+    "key": "小位传媒微信公众号",
+    "api": "https://wolongzyw.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "小位传媒-TV",
+    "key": "小位传媒-TV",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "卧龙资源",
+    "key": "卧龙资源",
+    "api": "https://wolongzyw.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "最大资源",
+    "key": "最大资源",
+    "api": "https://api.zuidapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "暴风资源",
+    "key": "暴风资源",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "无尽资源",
+    "key": "无尽资源",
+    "api": "https://api.wujinapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "魔都资源",
+    "key": "魔都资源",
+    "api": "https://www.mdzyapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "电影天堂",
+    "key": "电影天堂",
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "如意资源",
+    "key": "如意资源",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  },
+  {
+    "name": "红牛资源",
+    "key": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "detail": "",
+    "disabled": false,
+    "is_adult": false
+  }
+]
