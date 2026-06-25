@@ -1,6 +1,5 @@
 #EXTM3U
-
-# 央视
+# 央视频道分组
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="shturl.cc/SEz2T5nGBpssAB1ogGCtJ1XLpNFMNUjRHyJjkpOe97IzLKegLqAfzzFrCY5S1tKcZSmOvOdDnf31b" group-title="央视",CCTV1
 http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="shturl.cc/VhHzBa2MngFYJRk0rydrSxwQ7wEAymuzaXq4xGyQWusesbMo6SqGnUiRQsEFxmCvnRkIDbk8S6bET" group-title="央视",CCTV2
@@ -42,7 +41,7 @@ http://112.27.5.218:9901/tsfile/live/faacts/1050_1.m3u8?key=txiptv&playlive=1&au
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="shturl.cc/2MPFFJqkqBRkxxXFAHiGcXARww6QV6aD9OdASSWVID3Ob7TVh3Cqxfyf4yGU3x0X56UZtM1FiRSr" group-title="央视",CGTN
 http://139.227.21.22:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 
-# 卫视
+# 卫视频道分组
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="shturl.cc/yvpdn5zvEqM4tXFJihFxSrT6BJjHKHc4VJFDfuqvoRhTjkumpE3KHQ9BOfsWScSmBvn2k0VQz28RcN7j3X0IboJ4HhDah4XsC27Khtkc7OgB" group-title="各省卫视",东南卫视
 http://139.227.21.22:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="shturl.cc/qI9s319oCxE9YMwxRyJMzPqQqc8JAN5jhJVPbi41PjFaVB3vwuQKrifNIVdzP2yXfOoKZ3vbzcqeC0jM9lzU8h2pqADQD9MAi5IIa6mQkv6v" group-title="各省卫视",东方卫视
@@ -112,7 +111,7 @@ http://112.27.5.218:9901/tsfile/live/faacts/0140_1.m3u8?key=txiptv&playlive=1&au
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="shturl.cc/hZAzPvpkJBOrYjm5wKe2kAhhkvUP8jfeezbx2AA7591Za3Cn4bgiESkHf0DnYNsMD0XvtyJyzt6AKD06AeTDyFZwCy3kVOgWdn5cPBvlrydc7tfTqLYUw" group-title="各省卫视",黑龙江卫视
 http://112.27.5.218:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
-# 影视/少儿/地方/财经
+# 其他频道分组
 #EXTINF:-1 tvg-name="CHC电影" tvg-logo="shturl.cc/lHkzxM2J9jo0dMNwSoc0CqluUE7iDtV66vV0B5Wy0e81ZysrZUc9GWPxoU3rUG4ve9KZ2VXM3oZAnsrNB4AVkarxCWyEZ" group-title="其他频道",CHC电影
 http://112.27.5.218:9901/tsfile/live/faacts/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="shturl.cc/du5wJa4S7Ad0WZoYt8iOq41gxaPZmneSojzQzdQoMM2KFNdmiZfY66FFCyO3avTJlHDbMDcZtkB8Efx0toDoLlrgGnuJR0xS5RoahoNvLWr9" group-title="其他频道",东方财经
