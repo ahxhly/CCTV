@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
-#EXT-X-UPDATED: 2026-07-02 16:40:00
-
-#=====================央视频道=====================
+# 央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="shturl.cc/Qpxg1YqKWPK0gzzWnxFExOhmqhq75k7qLAbcCs.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://106.15.58.163:9009/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="shturl.cc/Qpxg1YqKWPK0gzzWnxFExOhmqhq75k7qLAbcCs.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="央视频道",CCTV1
@@ -99,7 +97,7 @@ http://1.194.184.176:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="shturl.cc/CVPtORutaOpuuhqVlU0zD9xkpfGl7GOYXALbVOmGgm8ql0bdqODcOzF86OKHmd8bkobdaC43RdkM" group-title="央视频道",CGTN
 http://113.57.140.161:10081/newlive/live/hls/18/live.m3u8
 
-#=====================省级卫视频道=====================
+# 省级卫视频道
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="shturl.cc/Qpxg1YqKWPK0gzzWnxFExOhmqhq75k7qLAbcCs.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="省级卫视",东南卫视
 http://106.15.58.163:9009/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="shturl.cc/Qpxg1YqKWPK0gzzWnxFExOhmqhq75k7qLAbcCs.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="省级卫视",东南卫视
